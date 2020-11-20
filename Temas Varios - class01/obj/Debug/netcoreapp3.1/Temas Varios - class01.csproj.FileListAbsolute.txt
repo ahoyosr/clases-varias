@@ -1,0 +1,13 @@
+D:\C sharp\Temas Varios - class01\Temas Varios - class01\bin\Debug\netcoreapp3.1\Temas Varios - class01.exe
+D:\C sharp\Temas Varios - class01\Temas Varios - class01\bin\Debug\netcoreapp3.1\Temas Varios - class01.deps.json
+D:\C sharp\Temas Varios - class01\Temas Varios - class01\bin\Debug\netcoreapp3.1\Temas Varios - class01.runtimeconfig.json
+D:\C sharp\Temas Varios - class01\Temas Varios - class01\bin\Debug\netcoreapp3.1\Temas Varios - class01.runtimeconfig.dev.json
+D:\C sharp\Temas Varios - class01\Temas Varios - class01\bin\Debug\netcoreapp3.1\Temas Varios - class01.dll
+D:\C sharp\Temas Varios - class01\Temas Varios - class01\bin\Debug\netcoreapp3.1\Temas Varios - class01.pdb
+D:\C sharp\Temas Varios - class01\Temas Varios - class01\obj\Debug\netcoreapp3.1\Temas Varios - class01.csprojAssemblyReference.cache
+D:\C sharp\Temas Varios - class01\Temas Varios - class01\obj\Debug\netcoreapp3.1\Temas Varios - class01.AssemblyInfoInputs.cache
+D:\C sharp\Temas Varios - class01\Temas Varios - class01\obj\Debug\netcoreapp3.1\Temas Varios - class01.AssemblyInfo.cs
+D:\C sharp\Temas Varios - class01\Temas Varios - class01\obj\Debug\netcoreapp3.1\Temas Varios - class01.csproj.CoreCompileInputs.cache
+D:\C sharp\Temas Varios - class01\Temas Varios - class01\obj\Debug\netcoreapp3.1\Temas Varios - class01.dll
+D:\C sharp\Temas Varios - class01\Temas Varios - class01\obj\Debug\netcoreapp3.1\Temas Varios - class01.pdb
+D:\C sharp\Temas Varios - class01\Temas Varios - class01\obj\Debug\netcoreapp3.1\Temas Varios - class01.genruntimeconfig.cache
