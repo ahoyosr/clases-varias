@@ -8,3 +8,13 @@ D:\C sharp\Temas Varios - class01\Escuela\bin\Debug\Escuela.pdb
 D:\C sharp\Temas Varios - class01\Escuela\obj\Debug\Escuela.exe
 D:\C sharp\Temas Varios - class01\Escuela\obj\Debug\Escuela.pdb
 D:\C sharp\Temas Varios - class01\Escuela\obj\Debug\Escuela.frmAlumnos.resources
+D:\Programming\clases-varias\Escuela\bin\Debug\Escuela.exe.config
+D:\Programming\clases-varias\Escuela\bin\Debug\Escuela.exe
+D:\Programming\clases-varias\Escuela\bin\Debug\Escuela.pdb
+D:\Programming\clases-varias\Escuela\obj\Debug\Escuela.csprojAssemblyReference.cache
+D:\Programming\clases-varias\Escuela\obj\Debug\Escuela.frmAlumnos.resources
+D:\Programming\clases-varias\Escuela\obj\Debug\Escuela.Properties.Resources.resources
+D:\Programming\clases-varias\Escuela\obj\Debug\Escuela.csproj.GenerateResource.cache
+D:\Programming\clases-varias\Escuela\obj\Debug\Escuela.csproj.CoreCompileInputs.cache
+D:\Programming\clases-varias\Escuela\obj\Debug\Escuela.exe
+D:\Programming\clases-varias\Escuela\obj\Debug\Escuela.pdb
