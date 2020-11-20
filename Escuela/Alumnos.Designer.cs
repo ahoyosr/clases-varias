@@ -59,12 +59,8 @@
             // 
             this.cboTipoDocumento.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboTipoDocumento.FormattingEnabled = true;
-            this.cboTipoDocumento.Items.AddRange(new object[] {
-            "C.C",
-            "T.I",
-            "Pasaporte"});
             this.cboTipoDocumento.Location = new System.Drawing.Point(21, 36);
-            this.cboTipoDocumento.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cboTipoDocumento.Margin = new System.Windows.Forms.Padding(4);
             this.cboTipoDocumento.Name = "cboTipoDocumento";
             this.cboTipoDocumento.Size = new System.Drawing.Size(383, 24);
             this.cboTipoDocumento.TabIndex = 1;
@@ -83,7 +79,7 @@
             // txtDocumento
             // 
             this.txtDocumento.Location = new System.Drawing.Point(491, 37);
-            this.txtDocumento.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtDocumento.Margin = new System.Windows.Forms.Padding(4);
             this.txtDocumento.Name = "txtDocumento";
             this.txtDocumento.Size = new System.Drawing.Size(379, 22);
             this.txtDocumento.TabIndex = 3;
@@ -101,7 +97,7 @@
             // txtNombre
             // 
             this.txtNombre.Location = new System.Drawing.Point(21, 111);
-            this.txtNombre.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtNombre.Margin = new System.Windows.Forms.Padding(4);
             this.txtNombre.Name = "txtNombre";
             this.txtNombre.Size = new System.Drawing.Size(379, 22);
             this.txtNombre.TabIndex = 5;
@@ -109,7 +105,7 @@
             // txtApellidos
             // 
             this.txtApellidos.Location = new System.Drawing.Point(491, 111);
-            this.txtApellidos.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtApellidos.Margin = new System.Windows.Forms.Padding(4);
             this.txtApellidos.Name = "txtApellidos";
             this.txtApellidos.Size = new System.Drawing.Size(379, 22);
             this.txtApellidos.TabIndex = 7;
@@ -129,7 +125,7 @@
             // txtCorreoElectronico
             // 
             this.txtCorreoElectronico.Location = new System.Drawing.Point(21, 187);
-            this.txtCorreoElectronico.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtCorreoElectronico.Margin = new System.Windows.Forms.Padding(4);
             this.txtCorreoElectronico.Name = "txtCorreoElectronico";
             this.txtCorreoElectronico.Size = new System.Drawing.Size(379, 22);
             this.txtCorreoElectronico.TabIndex = 9;
@@ -147,7 +143,7 @@
             // txtTelefono
             // 
             this.txtTelefono.Location = new System.Drawing.Point(491, 187);
-            this.txtTelefono.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtTelefono.Margin = new System.Windows.Forms.Padding(4);
             this.txtTelefono.Name = "txtTelefono";
             this.txtTelefono.Size = new System.Drawing.Size(379, 22);
             this.txtTelefono.TabIndex = 11;
@@ -167,7 +163,7 @@
             // btnLimpiar
             // 
             this.btnLimpiar.Location = new System.Drawing.Point(301, 277);
-            this.btnLimpiar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnLimpiar.Margin = new System.Windows.Forms.Padding(4);
             this.btnLimpiar.Name = "btnLimpiar";
             this.btnLimpiar.Size = new System.Drawing.Size(100, 28);
             this.btnLimpiar.TabIndex = 12;
@@ -177,7 +173,7 @@
             // btnGuardar
             // 
             this.btnGuardar.Location = new System.Drawing.Point(491, 277);
-            this.btnGuardar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnGuardar.Margin = new System.Windows.Forms.Padding(4);
             this.btnGuardar.Name = "btnGuardar";
             this.btnGuardar.Size = new System.Drawing.Size(100, 28);
             this.btnGuardar.TabIndex = 13;
@@ -188,8 +184,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Coral;
-            this.ClientSize = new System.Drawing.Size(897, 379);
+            this.ClientSize = new System.Drawing.Size(935, 407);
             this.Controls.Add(this.btnGuardar);
             this.Controls.Add(this.btnLimpiar);
             this.Controls.Add(this.txtTelefono);
@@ -204,9 +199,10 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.cboTipoDocumento);
             this.Controls.Add(this.label1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "frmAlumnos";
             this.Text = "Alumnos";
+            this.Load += new System.EventHandler(this.frmAlumnos_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
